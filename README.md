@@ -1,1 +1,1 @@
-java-basics_tasks-from-uni
+java_basics-tasks_from_uni
